@@ -1,0 +1,3 @@
+[submodule "testing-practice/automation-testing-portfolio"]
+	path = testing-practice/automation-testing-portfolio
+	url = https://github.com/krnjsh87/automation-testing-portfolio.git
