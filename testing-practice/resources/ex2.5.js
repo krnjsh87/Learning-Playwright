@@ -142,3 +142,6 @@ const tests = [
 
 // Run tests
 const summary = runTests(tests);
+
+
+// Method 2 is preferred for its clarity, error handling, and detailed logging. It provides a structured approach to executing tests and reporting results, making it easier to identify issues.
